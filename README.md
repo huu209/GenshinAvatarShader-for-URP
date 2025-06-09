@@ -6,4 +6,4 @@
 
 # Preview
 
-![image_0](Images/image.webp)
+![image](Images/image.jpg)
